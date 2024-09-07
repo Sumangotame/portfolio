@@ -91,7 +91,10 @@
         flex-direction: column-reverse;
     }
     .content {
-        align-items: center;
-        text-align: center;
+        text-align: left;
+    }
+    .title{
+        font-size: 50px;
+        font-weight: 500;
     }
 }
